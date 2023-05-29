@@ -1,0 +1,3 @@
+﻿  driver.c
+C:\Users\127793\Desktop\Escalonadores\Escalonador_RR_Prioridade\Escalonador_RR_Prioridade\driver.c(44,11): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Escalonador_RR_Prioridade.vcxproj -> C:\Users\127793\Desktop\Escalonadores\Escalonador_RR_Prioridade\x64\Debug\Escalonador_RR_Prioridade.exe
